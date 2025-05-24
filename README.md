@@ -1,7 +1,14 @@
 
+![image](https://github.com/user-attachments/assets/398822ab-247e-4844-bc68-f6f63a86117c)
+
+
+_**Hi , I'm Priyansh Malik**_
+
 
 # 💫 About Me:
 💼 Currently Working On<br>Automating financial reporting workflows using Python & Excel<br><br>Building dashboards and data models for financial insights using Power BI and Tableau<br><br>Applying machine learning models to forecast key financial metrics<br><br>🤝 Looking to Collaborate On<br>Data-driven financial modeling or analytics projects<br><br>Exploratory Data Analysis (EDA) and ML use cases in the finance domain<br><br>Open-source tools that simplify finance or accounting processes<br><br>🙋‍♂️ Looking to Help With<br>Financial data analysis and automation<br><br>ML/AI model building for business intelligence<br><br>Dashboarding, KPIs, and storytelling with data<br><br>🧠 Ask Me About<br>Financial data analytics & interpretation<br><br>ML models in Excel & Python<br><br>Budgeting, forecasting, and performance dashboards<br><br>Transitioning from traditional finance to data science<br><br>🤓 Fun Fact<br>I’m a CA student who enjoys decoding numbers by day and training ML models by night — always blending finance and data for smarter decisions!<br><br>
+
+![image](https://github.com/user-attachments/assets/61456840-1bc3-4af2-9b2f-06a1a9d42038)
 
 
 ## 🌐 Socials:
